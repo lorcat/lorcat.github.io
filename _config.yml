@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: KG Blog
+name: Konstantin's Blog
 
 # Name of the author
 author: Konstantin Glazyrin
@@ -12,7 +12,7 @@ author: Konstantin Glazyrin
 description: Born in USSR, working in high-pressure research
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/avatar.png
+avatar: /images/avatar.jpg
 
 #
 # Flags below are optional
@@ -21,13 +21,11 @@ avatar: /images/avatar.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: lorcat@gmail.com
   facebook:
   flickr:
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
   stackoverflow: 
   playconsole:
 
